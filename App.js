@@ -12,7 +12,7 @@ function App() {
         <Route exact path="/" element={<Home />}/>
         <Route path="/add" element={<AddEdit />}/> 
         <Route path="/update/:id" element={< AddEdit />}/>
-        <Route path="/search" element={<table />}/> 
+        
         </Routes>
        
       
