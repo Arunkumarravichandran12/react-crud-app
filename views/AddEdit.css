@@ -1,0 +1,33 @@
+h1{
+    text-align: left;
+}
+
+label{
+    margin-top: 10px;
+    margin-left: 10px;
+    text-align: left;
+    font-size: 18px;
+    display: inline-block; 
+   width: 100px;
+ }
+ 
+ input{
+     height: 25px;
+     width: 300px;
+     border:1px solid #000;
+     margin-top: 10px;
+     margin-left: 20px;
+     text-align: left;
+     
+ }
+ .b1{
+   background-color: black;
+   color: white;
+   border-radius: 12px;
+   margin-left: 130px;
+   height: 25px;
+   width: 100px;
+   text-align: center;
+ }
+ 
+ 

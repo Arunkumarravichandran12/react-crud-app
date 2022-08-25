@@ -1,0 +1,43 @@
+table{
+    border: 2px solid #ddd;
+}
+table{
+    border-collapse: collapse;
+    width: 90%;
+    margin-left: 70px;
+    margin-top: 50px;
+    
+    
+}
+h1{
+    margin-left: 70px;
+}
+.b2{
+    background-color: black;
+   color: white;
+   border-radius: 12px;
+    margin-left: 820px;
+    height: 25px;
+   width: 100px;
+   text-align: center;
+}
+th{
+    height: 50px;
+}
+th,td{
+    border-bottom:2px solid #ddd;
+}
+td{
+    text-align: center;
+    height: 80px;
+}
+.i1{
+    margin-left: 65px;
+    background-color: #ddd;
+}
+.s1{
+    color: black;
+    position: absolute;
+    left: 345px;
+    top: 15%;
+}
